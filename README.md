@@ -5,7 +5,12 @@ Domain : CYBERSECURITY AND ETHICAL HACKING
 Duration: September to October 2024 
 Mentor : Muzammil
 
-Project Overview: output github output github (2)
+Project Overview: 
+output:
+![output github](https://github.com/user-attachments/assets/fad97404-3bbb-4005-84d7-8fcb34106dc7)
+
+![output github (2)](https://github.com/user-attachments/assets/50112cf6-c1de-4474-95bc-b2855f9152f2)
+
 
 Password Strength Assessment Tool
 
